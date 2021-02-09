@@ -1,0 +1,5 @@
+Question2 Answer:
+
+A coonstructor is used to initialize the object of the class or it is a method which
+is called when an object is created. Every time we create an object a constructor
+is called.
