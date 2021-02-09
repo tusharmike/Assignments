@@ -1,0 +1,14 @@
+Question1 Answer:
+
+first for loop run for n times  - O(n)
+second loop run for m times  - O(m)
+Total complexity = O(n+m)
+which is simplified as O(n).
+
+
+Question2 Answer:
+
+B) X will be a better choice for all inputs except possibly small inputs
+
+The option B is correct because in case of asymptotic analysis an algorithm X is said to be
+more efficient while it work excellent with  large input size than the other algorithm Y.
